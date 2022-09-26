@@ -1,4 +1,5 @@
-# Postifolio Teste: Análise do Risco de Crédito em Empréstimos Bancarios 
+# *Postifolio Teste: Análise do Risco de Crédito em Empréstimos Bancários*
+
 ## Publicação teste do meu primeiro estudo de caso. Nele terá:
 * Análise de dados usando os conhecimentos do curso de Análise de Dados do Google. 
 * Utilização de técnicas de Machine Learning com Python, usando os conhecimentos do curso de Machine Learning e Data Science com Python de A a Z, da Udemy
