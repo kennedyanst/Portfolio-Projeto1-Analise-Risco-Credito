@@ -69,4 +69,4 @@
 *continua...*
 
 
-##### Obs: Esse portfólio é um teste e não o definitivo. Postei para testa o github.  
+##### Obs: Esse portfólio é um teste e não o definitivo. Postei para me familiarizar com o github.  
