@@ -1,6 +1,6 @@
 # *Portfólio Teste: Análise do Risco de Crédito em Empréstimos Bancários*
 ***
-<center># Apresentação<center>
+# Apresentação
 ***
 ## Publicação teste do meu primeiro estudo de caso. Nele terá:
 * Análise de dados usando os conhecimentos do curso de Análise de Dados do Google. 
