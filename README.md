@@ -6,7 +6,7 @@
 * Utilização de Gráficos e Relátorios com o Microsoft Power BI para a visualização de tendências nos dados. Conhecimentos adquiridos no cursos de Análise de Dados com Power BI da Data Science Academy.
 
 
-**# Estudo de Caso 1: Quais são os principais influenciadores para o Pagamento ou Não de um emprestimo de crédito?**
+# **Estudo de Caso 1: Quais são os principais influenciadores para o Pagamento ou Não de um emprestimo de crédito?**
 
 ## Objetivo:
 * Fazer a integração dos conhecimentos adquiridos nos cursos: "Certificado Profissional de Análise de Dados do Google", "Data Science e Machine Learning com Python" e "Microsoft Power BI Para Data Science, Versão 2.0" 
