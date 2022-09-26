@@ -66,6 +66,7 @@
 * Power Apps
 * Projeto Final - Data Lake, Dremio e Power BI para Análise de Vendas
 
+*continua...*
 
 
 ##### Obs: Esse portfólio é um teste e não o definitivo. Postei para testa o github.  
