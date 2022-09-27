@@ -11,7 +11,7 @@
 # **Estudo de Caso 1: Quais são os principais influenciadores para o Pagamento ou Não de um empréstimo de crédito?**
 
 ## Objetivo:
-* Fazer a integração dos conhecimentos adquiridos nos cursos: "Certificado Profissional de Análise de Dados do Google", "Data Science e Machine Learning com Python de A a Z" e "Microsoft Power BI Para Data Science, Versão 2.0" com um estudo de caso popular no meio de análise de dados preditiva. Além do mais, o setor de emprestimo bancario é crecsente e atuante a cada dia, uma análise assim com ferramentas populares como Power BI, Linguagem de programação Python e algoritmos de Machine Learning, se faz presente e bem-vinda.
+* Fazer a integração dos conhecimentos adquiridos nos cursos: "Certificado Profissional de Análise de Dados do Google", "Data Science e Machine Learning com Python de A a Z" e "Microsoft Power BI Para Data Science, Versão 2.0" com um estudo de caso popular no meio de análise de dados preditiva. Além do mais, o setor de emprestimo bancario é crecsente e atuante a cada dia, uma análise assim com ferramentas populares como Power BI, Linguagem de programação Python e algoritmos de Machine Learning, se faz presente e bem-vinda. Outrossim, construir o meu primeiro estudo de caso, como foi estipulado no curso final da Certificação de Análise de Dados do Google, também se mostrou um grande incentivador para a realização deste projeto. 
 
 
 ### [*- Certificado Profissional de Análise de Dados do Google*](https://www.coursera.org/professional-certificates/analise-de-dados-do-google)
@@ -76,4 +76,4 @@ O objetivo deste estudo de caso é analisar os principais influenciadores para o
 *continua...*
 
 
-##### Obs: Esse portfólio é um teste e não o definitivo. Postei para me familiarizar com o github.  
+##### Obs: Este portfólio é um teste e não o definitivo. Postei para me familiarizar com o github.  
