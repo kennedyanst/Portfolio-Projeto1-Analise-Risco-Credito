@@ -25,7 +25,7 @@
 * Análise de dados com programação em R
 * Projeto final de Data Analytics do Google: conclua um estudo de caso
 
-### *- Machine Learning e Data Science com Python de A a Z*
+### [*- Machine Learning e Data Science com Python de A a Z*](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/)
 #### Curso focado em aplicações de Machine Learning e Data Science utilizando a Linguagem Python. Foram 32 módulos ministrados por Jonas Granatyr da "IA Expert Academy" na plataforma de ensino "Udemy", totalizando aproximadamente 42 horas de conteúdo:
 * Classificação: Aprendizagem Bayesiana, Árvores de decisão, Random forest, Regras, Instâncias, Regressão logística, SVM e Redes neurais artificiais. 
 * Avaliação de algoritmos de classificação
@@ -43,7 +43,7 @@
 * Detecção de outliers
 * Séries temporais
 
-### *- Microsoft Power BI Para Data Science, Versão 2.0*
+### [*- Microsoft Power BI Para Data Science, Versão 2.0*](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science)
 #### Curso focado na aplicação IDE Microsoft Power BI em análise e ciência de dados. Foram 20 módulos ministrados por Daniel Mendes na plataforma de ensino "Data Science Academy", totalizando aproximadamente 72 horas de conteúdo:
 * Introdução
 * Primeros Passos com Power I
@@ -68,7 +68,7 @@
 ***
 # Introdução
 ***
-O objetivo deste estudo de caso é analisar os principais influenciadores para o pagamento ou não de um emprestimo bancario. Ademais, sendo o meu prmeiro projeto de análise de dados, resolvi utilizar a base de dados de crédito, dos cursos que conclui na Udemy: [Machine Leraning e Data Science com Python](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/)
+O objetivo deste estudo de caso é analisar os principais influenciadores para o pagamento ou não de um emprestimo bancario. Ademais, sendo o meu prmeiro projeto de análise de dados, resolvi utilizar a base de dados de crédito, dos cursos que conclui na Udemy: 
 
 *continua...*
 
