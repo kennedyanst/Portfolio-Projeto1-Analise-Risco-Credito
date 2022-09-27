@@ -68,7 +68,7 @@
 ***
 # Introdução
 ***
-O objetivo deste estudo de caso é analisar os principais influenciadores para o pagamento ou não de um emprestimo bancario. Ademais, sendo o meu prmeiro projeto de análise de dados, resolvi utilizar a base de dados de crédito, dos cursos que conclui na Udemy: [https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/] (Machine Learning com Python)
+O objetivo deste estudo de caso é analisar os principais influenciadores para o pagamento ou não de um emprestimo bancario. Ademais, sendo o meu prmeiro projeto de análise de dados, resolvi utilizar a base de dados de crédito, dos cursos que conclui na Udemy: [https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/](Machine Learning com Python)
 
 *continua...*
 
