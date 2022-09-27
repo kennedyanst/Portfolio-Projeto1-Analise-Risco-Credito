@@ -65,6 +65,10 @@
 * Power Vitual Agents
 * Power Apps
 * Projeto Final - Data Lake, Dremio e Power BI para Análise de Vendas
+***
+# Introdução
+***
+O objetivo deste estudo de caso é analisar os principais influenciadores para o pagamento ou não de um emprestimo bancario. Ademais, sendo o meu prmeiro projeto de análise de dados, resolvi utilizar a base de dados de crédito, dos cursos que conclui na Udemy: [Machine Learning com Python] (https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/learn/lecture/26239124#overview)
 
 *continua...*
 
