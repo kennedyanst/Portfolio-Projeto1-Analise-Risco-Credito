@@ -14,7 +14,7 @@
 * Fazer a integração dos conhecimentos adquiridos nos cursos: "Certificado Profissional de Análise de Dados do Google", "Data Science e Machine Learning com Python" e "Microsoft Power BI Para Data Science, Versão 2.0" 
 
 
-### *- Certificado Profissional de Análise de Dados do Google*
+### [*- Certificado Profissional de Análise de Dados do Google*](https://www.coursera.org/professional-certificates/analise-de-dados-do-google)
 ##### Curso focado em análise de dados, ministrado por funcionarios da empresa através da plataforma de ensino "Coursera". Foram 8 cursos integrados na certificação, totalizando aproximadamente 200 horas de conteúdo:
 * Fundamentos: dados, dados, em todos os lugares
 * Fazer perguntas para tomar decisões com base em dados
