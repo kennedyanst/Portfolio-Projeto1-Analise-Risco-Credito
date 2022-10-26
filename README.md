@@ -68,9 +68,16 @@
 ***
 # Introdução
 ***
-O objetivo deste estudo de caso é analisar os principais influenciadores para o pagamento ou não de um emprestimo bancario. Ademais, sendo o meu prmeiro projeto de análise de dados, resolvi utilizar a base de dados de risco crédito, dos cursos que conclui na Udemy:
+O objetivo deste estudo de caso é analisar os principais influenciadores para o pagamento ou não de um emprestimo bancario. Ademais, sendo o meu primeiro projeto de análise de dados, resolvi utilizar a base de dados de risco crédito, dos cursos que conclui na Udemy:
 * Machine Learning e Data Science com Python de A a Z
 * Machine Learning e Data Science com R de A a Z
 
+Nesta análise irei utilizar o conceito das "Seis fases da análise de dados" do Google, ministrado na certificação profissional de analista de dados na platamorma Coursera. Onde tais fases se consistem em:
 
+  1. Perguntar
+  2. Preparar
+  3. Processar
+  4. Analisar
+  5. Compartilhar
+  6. Agir
 *continua...*
