@@ -1,4 +1,4 @@
-# *Portfólio Teste: Análise do Risco de Crédito em Empréstimos Bancários*
+# *Portfólio-Projeto 1: Análise do Risco de Crédito em Empréstimos Bancários*
 ***
 # Apresentação
 ***
@@ -74,6 +74,3 @@ O objetivo deste estudo de caso é analisar os principais influenciadores para o
 
 
 *continua...*
-
-
-##### Obs: Este portfólio é um teste e não o definitivo. Postei para me familiarizar com o github.  
