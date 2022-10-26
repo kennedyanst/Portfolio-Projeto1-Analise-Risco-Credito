@@ -80,4 +80,7 @@ Nesta análise irei utilizar o conceito das "Seis fases da análise de dados" do
   4. Analisar
   5. Compartilhar
   6. Agir
+***
+# Perguntar!
+***
 *continua...*
