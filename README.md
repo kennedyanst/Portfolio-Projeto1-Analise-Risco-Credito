@@ -81,6 +81,6 @@ Nesta análise irei utilizar o conceito das "Seis fases da análise de dados" do
   5. Compartilhar
   6. Agir
 ***
-# {c:red}Perguntar!{/c}
+# Perguntar!
 ***
 *continua...*
